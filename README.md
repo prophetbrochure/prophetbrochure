@@ -24,4 +24,4 @@
   </tr>
 </table>
 
-<img src="img1" width="200"/>
+<img src="ДЖБТ.jpeg" width="450"/>
