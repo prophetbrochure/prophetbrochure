@@ -23,3 +23,5 @@
     </td>
   </tr>
 </table>
+
+<img src="img1" width="200"/>
